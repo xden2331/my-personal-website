@@ -22,3 +22,12 @@ hr{
     width: 80px;
     margin: 0 10px;
 }
+
+@media (max-width: 480px) {
+    hr{
+        background: white;
+        height: 2px;
+        width: 40px;
+        margin: 0 10px;
+    }
+}
