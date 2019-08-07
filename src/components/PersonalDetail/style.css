@@ -1,0 +1,11 @@
+.detail-item:nth-child(2n+1){
+    background: #eee;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.detail-item {
+    padding-top: 50px;
+}
