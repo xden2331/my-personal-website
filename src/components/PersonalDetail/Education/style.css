@@ -16,3 +16,9 @@
 .image-2 {
     background-image: url('https://aipptraining.com.au/wp-content/uploads/2018/06/USYD.jpg');
 }
+
+@media (max-width: 480px) {
+    .row {
+        margin: 0 0;
+    }
+}
